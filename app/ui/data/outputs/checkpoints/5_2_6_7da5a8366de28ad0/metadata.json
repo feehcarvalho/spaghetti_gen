@@ -1,0 +1,72 @@
+{
+  "analysis_id": "5_2_6_7da5a8366de28ad0",
+  "saved_at": "2026-06-18T15:45:51",
+  "metadata": {
+    "empresa": "Scania",
+    "departamento": "CHASSI",
+    "linha": "FUNÇÃO 5",
+    "bloco": null,
+    "posto": "5.2.6",
+    "processo": "MONTAGEM DO OITÃO",
+    "responsavel": "Matheus Ramos Morais Silva (msi7ng)",
+    "data_analise": "2026-06-18",
+    "takt_time_s": 300.0,
+    "ciclo_observado_s": 363.1,
+    "fonte_video": "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\videos\\uploads\\20260618_154549_988719_Oit_o_XT-8X2.mp4",
+    "observacoes_gerais": null,
+    "inicio_esperado_processo": null,
+    "fim_esperado_processo": null,
+    "foco_do_processo": null,
+    "usuario_login": "msi7ng",
+    "usuario_nome": "Matheus Ramos Morais Silva",
+    "usuario_area": "Aprendiz função 5",
+    "aceite_responsabilidade_em": "2026-06-18T15:44:49"
+  },
+  "extra": {
+    "video_metadata": {
+      "video_path": "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\videos\\uploads\\20260618_154549_988719_Oit_o_XT-8X2.mp4",
+      "duration_s": 363.1,
+      "fps": 30.0,
+      "width": 852,
+      "height": 480,
+      "frame_count": 10893,
+      "file_size_mb": 182.325,
+      "codec": "h264",
+      "created_at": "2026-06-18T15:45:49",
+      "processado_em": "2026-06-18T15:45:51"
+    },
+    "quality_mode": "Máxima qualidade / produção",
+    "layout_image_path": null,
+    "layout_json_path": null,
+    "knowledge_sources": [
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\posicoes\\5.2.6\\padrao_posicao.md",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\corporativo\\regras_av_nav_d.md",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\corporativo\\nomenclatura_sps.md",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\corporativo\\scania_house.md",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\corporativo\\scania_way.md",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\FA5.4.4.docx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\posicoes\\5.2.6\\dicionario_posto.md",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\catalogo_fotos_editavel.docx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Modelo de aprendizado.xlsx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Modelo de Melhoria.xlsx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Modelo de template.xlsx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Modelo Padrão .xlsx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\posicoes\\5.2.6\\exemplos_microetapas.md"
+    ],
+    "unreadable_documents": [
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\corporativo\\06.01 - 0_SPS Module 3 Standards_Jul_25 (GG).pptx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\06.01 - 0_SPS Module 3 Standards_Jul_25 (GG).pptx",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Classificação de tempos 2.jpeg",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\MANUAL CORPORATIVO.pdf",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\modelo de processamento.pdf",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Posição 5.2.F.pdf",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Processo (1).pdf",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\treinamento 01.pdf",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\treinamento 02.pdf",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\Treinamento Regras de Ouro colaboradores_Gerente Executivo_ed02.pdf",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\TREINAMENTOS (DESCRIÇÃO + VIDEO) (1).zip",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\Memorias\\TSW v1.4.png",
+      "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\knowledge_raw\\uploads"
+    ]
+  }
+}

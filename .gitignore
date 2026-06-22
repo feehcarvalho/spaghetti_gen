@@ -1,0 +1,185 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Data (temporary, local)
+data/frames/**/*.png
+data/frames/**/*.jpg
+data/frames/*.png
+data/frames/*.jpg
+data/videos/**/*.mp4
+data/videos/*.mp4
+data/videos/**/*.mov
+data/videos/*.mov
+data/videos/**/*.avi
+data/videos/*.avi
+data/videos/**/*.mkv
+data/videos/*.mkv
+data/layouts_temp/
+data/templates_temp/
+data/outputs/*.xlsx
+data/outputs/**/*.xlsx
+data/outputs/*.json
+data/outputs/analise_*.json
+data/outputs/test_*.json
+data/outputs/*.png
+data/outputs/**/*.png
+data/outputs/debug/
+data/outputs/matplotlib_cache/
+data/outputs/pip-*
+!data/outputs/sample_analysis_pmgs_p1.json
+data/knowledge_raw/**/*.txt
+!data/.gitkeep
+!data/templates/.gitkeep
+
+# Tests
+.pytest_cache/
+pytest-cache-files-*/
+.pytest_tmp/
+.tmp/
+data/outputs/pytest_tmp/
+.coverage
+htmlcov/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+@'
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Variaveis de ambiente e segredos
+.env
+*.env
+.streamlit/secrets.toml
+
+# Logs
+*.log
+logs/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Testes/cache
+.pytest_cache/
+.mypy_cache/
+
+# Streamlit
+.streamlit/config.toml
+
+# Jupyter
+.ipynb_checkpoints/
+'@ | Set-Content -Encoding UTF8 .gitignore
+
+# Dados locais / memorias / arquivos pesados
+data/knowledge_raw/
+
+# Arquivos grandes comuns
+*.zip
+*.pptx
+*.ppt
+*.pptm
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Ambientes Python locais
+.venv/
+.venv-1/
+venv/
+env/
+.portable_python/
+python-embed/
+portable_python/
+
+# Bibliotecas binárias instaladas
+*.pyd
+*.dll
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Segredos
+.env
+*.env
+.streamlit/secrets.toml
+
+# Logs
+*.log
+logs/
+
+# Dados locais / arquivos pesados
+data/knowledge_raw/
+
+# Arquivos grandes comuns
+*.zip
+*.pptx
+*.ppt
+*.pptm
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Arquivos gerados pela IA / saidas locais
+output/
+outputs/
+data/output/
+data/outputs/

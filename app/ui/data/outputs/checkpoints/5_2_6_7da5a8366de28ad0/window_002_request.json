@@ -1,0 +1,38 @@
+{
+  "model": "gpt-5.5",
+  "image_detail": "auto",
+  "timeout_s": 300,
+  "max_retries": 2,
+  "window_id": "window_002",
+  "window_index": 2,
+  "start_s": 11.4,
+  "end_s": 23.4,
+  "duration_s": 12.0,
+  "frame_count": 10,
+  "frame_paths": [
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000012_011.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000013_012.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000015_014.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000017_016.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000018_017.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000019_018.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000020_019.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000022_021.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000023_022.00s.jpg",
+    "C:\\Users\\ssbfci\\OneDrive - Scania CV\\SILVA MATHEUS's files - ia_sps_scania_2.0\\data\\outputs\\timeline_frames\\20260618_154549_988719_Oit_o_XT-8X2_5cd9402e5d\\frame_000024_023.00s.jpg"
+  ],
+  "frame_timestamps_s": [
+    11.0,
+    12.0,
+    14.0,
+    16.0,
+    17.0,
+    18.0,
+    19.0,
+    21.0,
+    22.0,
+    23.0
+  ],
+  "motion_score": 0.02991,
+  "scene_change_markers": []
+}

@@ -1,0 +1,16 @@
+timestamp,login,status,message,user_name,user_area,user_profile,app_env,machine_user,session_id
+2026-06-18T14:54:30,ssbfci,denied,Login não autorizado para uso desta ferramenta.,,,,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T14:56:34,msi7ng,denied,Login não autorizado para uso desta ferramenta.,,,,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T14:56:52,msi7ng,denied,Login não autorizado para uso desta ferramenta.,,,,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T15:02:14,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T15:02:14,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T15:03:57,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T15:03:57,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T15:07:10,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T15:07:10,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,f87963f41b1146cd90339d93b8943215
+2026-06-18T15:25:41,ssbfci,authorized,Login autorizado.,Felipe Deolindo,Tecnico Automacao,user,local,ssbfci,abf888c9a4f24b9d97100aa4512738d9
+2026-06-18T15:25:41,ssbfci,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Felipe Deolindo,Tecnico Automacao,user,local,ssbfci,abf888c9a4f24b9d97100aa4512738d9
+2026-06-18T15:44:49,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,abf888c9a4f24b9d97100aa4512738d9
+2026-06-18T15:44:49,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,ssbfci,abf888c9a4f24b9d97100aa4512738d9
+2026-06-19T10:01:26,ssbfci,authorized,Login autorizado.,Felipe Deolindo,Tecnico Automacao,user,local,ssbfci,abf888c9a4f24b9d97100aa4512738d9
+2026-06-19T10:01:26,ssbfci,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Felipe Deolindo,Tecnico Automacao,user,local,ssbfci,abf888c9a4f24b9d97100aa4512738d9

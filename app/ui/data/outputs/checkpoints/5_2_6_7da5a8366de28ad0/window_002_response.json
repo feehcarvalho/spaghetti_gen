@@ -1,0 +1,70 @@
+[
+  {
+    "window_index": 2,
+    "start_s": 11.4,
+    "end_s": 23.4,
+    "microetapas": [
+      {
+        "numero_local": 1,
+        "inicio_s": 11.4,
+        "fim_s": 16.0,
+        "duracao_s": 4.6,
+        "descricao_tecnica_detalhada": "Estabilizar o pneu no VR de pneu junto ao ponto de montagem do conjunto 8x2, mantendo a peça controlada e próxima à região de montagem.",
+        "instrucao_padrao": "Posicionar o pneu no ponto de montagem do conjunto 8x2 com apoio do VR de pneu.",
+        "evidencia_observavel": "Entre 11 s e 16 s, o pneu permanece vertical apoiado no dispositivo amarelo, com o colaborador mantendo contato manual na lateral/banda do pneu junto à cabine e ao eixo dianteiro aparente.",
+        "interpretacao_de_processo": "Preparação/controle de posicionamento do pneu antes de eventual montagem ou fixação; não há evidência visual de encaixe no cubo, aplicação de porca ou aperto nesta janela.",
+        "classificacao": "NAV",
+        "justificativa_tecnica": "A ação é necessária para controle, segurança e posicionamento pelo método atual, porém não há transformação direta confirmada no produto nem fixação do pneu ao conjunto durante o trecho observável.",
+        "evidencia_visual": "Pneu de grande porte visível no centro inferior, preso/suportado por estrutura amarela compatível com VR de pneu; mão do colaborador em contato com o pneu até aproximadamente 16 s.",
+        "tipo_movimento": "posicionar/estabilizar",
+        "tipo_desperdicio": null,
+        "local_inicio": "Ponto de montagem do conjunto 8x2",
+        "local_fim": "Ponto de montagem do conjunto 8x2",
+        "ferramenta_observacao": "VR de pneu aparente; ferramenta de fixação não observada",
+        "memoria_utilizada": [
+          "padrao_posicao.md - Posto 5.2.6 / 8x2",
+          "dicionario_posto.md - Pneu, VR de pneu, ponto de montagem, conjunto 8x2",
+          "regras_av_nav_d.md"
+        ],
+        "confianca": 0.71,
+        "baixa_confianca_motivo": "A imagem confirma pneu e dispositivo amarelo, mas não permite verificar se há alinhamento fino com prisioneiros/cubo ou apenas contenção do pneu.",
+        "requer_validacao_gemba": true
+      },
+      {
+        "numero_local": 2,
+        "inicio_s": 16.0,
+        "fim_s": 19.0,
+        "duracao_s": 3.0,
+        "descricao_tecnica_detalhada": "Afastar-se do ponto de montagem, deslocando-se pela lateral esquerda da área demarcada após soltar o contato direto com o pneu.",
+        "instrucao_padrao": "Retornar pela área demarcada após posicionar o pneu no ponto de montagem, quando previsto no método padrão.",
+        "evidencia_observavel": "A partir de 16 s, o colaborador deixa de manter contato com o pneu e caminha para a esquerda/fundo da imagem, saindo progressivamente do campo visual até aproximadamente 19 s.",
+        "interpretacao_de_processo": "Deslocamento do colaborador para fora da região imediata do pneu; a finalidade não é conclusiva pelo vídeo, podendo ser retorno, busca de item ou reposicionamento operacional.",
+        "classificacao": "NAV",
+        "justificativa_tecnica": "O deslocamento não transforma o produto. Foi classificado como NAV por poder ser necessário ao método atual após posicionamento do pneu; a finalidade exata não é visível, portanto não é possível afirmar desperdício sem validação no gemba.",
+        "evidencia_visual": "Colaborador em camisa branca caminha para a lateral esquerda da linha; pneu permanece parado no VR de pneu junto ao veículo.",
+        "tipo_movimento": "deslocar/retornar",
+        "tipo_desperdicio": null,
+        "local_inicio": "Ponto de montagem do conjunto 8x2",
+        "local_fim": "Área lateral esquerda do posto, parcialmente fora do campo visual",
+        "ferramenta_observacao": "Nenhuma ferramenta manual visível durante o deslocamento",
+        "memoria_utilizada": [
+          "padrao_posicao.md - separar deslocar e retornar",
+          "regras_av_nav_d.md",
+          "scania_way.md - decisão baseada no gemba"
+        ],
+        "confianca": 0.66,
+        "baixa_confianca_motivo": "Não é possível confirmar o objetivo do deslocamento nem se ele pertence ao fluxo padrão ou representa procura/movimentação evitável.",
+        "requer_validacao_gemba": true
+      }
+    ],
+    "explicacao_sem_microetapas": null,
+    "confianca_media": 0.685,
+    "alertas": [
+      "Entre aproximadamente 19 s e 23,4 s não há ação operacional visível sobre o pneu dentro do enquadramento; não foi criada microetapa de espera porque o colaborador pode estar executando atividade fora do campo visual.",
+      "Não há evidência visual de porcas, prisioneiros, encaixe no cubo ou uso de parafusadeira pneumática nesta janela.",
+      "A identificação do dispositivo como VR de pneu é baseada na evidência visual do suporte amarelo e na memória do posto, mas requer validação no gemba para nomenclatura local exata."
+    ],
+    "falhou": false,
+    "erro": null
+  }
+]

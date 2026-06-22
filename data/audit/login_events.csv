@@ -1,0 +1,63 @@
+timestamp,login,status,message,user_name,user_area,user_profile,app_env,machine_user,session_id
+2026-05-21T13:50:57,,denied,Login não autorizado para uso desta ferramenta.,,,,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T13:57:41,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T13:57:41,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T15:24:33,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T15:24:33,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T15:35:59,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T15:35:59,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T15:50:46,msi7ng,logout,Logout realizado pelo usuário.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T15:52:45,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-21T15:52:45,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-22T12:42:08,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-22T12:42:08,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-26T13:47:41,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-26T13:47:41,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-27T14:17:06,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-27T14:17:06,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-28T13:45:33,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-28T13:45:33,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-28T13:59:31,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-28T13:59:31,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,321ed551ac8b48f3ab36bceec5f2fd6b
+2026-05-28T14:57:29,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,681dc51180b34e92a6084431610d1e98
+2026-05-28T14:57:29,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,681dc51180b34e92a6084431610d1e98
+2026-05-28T15:15:25,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,681dc51180b34e92a6084431610d1e98
+2026-05-28T15:15:25,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,681dc51180b34e92a6084431610d1e98
+2026-05-28T15:45:30,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,681dc51180b34e92a6084431610d1e98
+2026-05-28T15:45:31,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,681dc51180b34e92a6084431610d1e98
+2026-06-01T13:26:40,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T13:26:40,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T13:28:45,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T13:28:45,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T13:33:12,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T13:33:12,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T14:36:54,msi&ng,denied,Login não autorizado para uso desta ferramenta.,,,,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T14:37:09,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-01T14:37:09,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00ca42f49824f15b604910e2dec1e1b
+2026-06-02T06:56:43,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,5357afedf9494d82be63b5c6df9b05f1
+2026-06-02T06:56:43,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,5357afedf9494d82be63b5c6df9b05f1
+2026-06-02T13:18:06,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00c0d56d1044fa58f43a297b4161ab7
+2026-06-02T13:18:06,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,c00c0d56d1044fa58f43a297b4161ab7
+2026-06-07T22:03:09,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-07T22:03:09,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-08T00:40:35,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-08T00:40:35,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-08T00:45:35,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-08T00:45:35,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-08T10:49:50,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-08T10:49:50,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,54b82da3e92e4fa79379360bd73f4a80
+2026-06-09T08:08:27,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-09T08:08:27,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-09T08:16:49,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-09T08:16:49,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-09T08:25:29,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-09T08:25:29,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-10T15:10:09,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-10T15:10:09,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-10T15:12:01,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-10T15:12:01,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-15T14:12:12,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MFOFNZ,d3faefb71ec0492c8ae058af19697591
+2026-06-15T14:12:12,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MFOFNZ,d3faefb71ec0492c8ae058af19697591
+2026-06-15T14:12:16,msi7ng,logout,Logout realizado pelo usuário.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MFOFNZ,d3faefb71ec0492c8ae058af19697591
+2026-06-18T12:47:10,msi7ng,authorized,Login autorizado.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b
+2026-06-18T12:47:10,msi7ng,accepted_responsibility,Responsabilidade SPS aceita antes do acesso.,Matheus Ramos Morais Silva,Aprendiz função 5,user,local,MSI7NG,1aa336c9d8ae4da8acc42865f90a2d5b

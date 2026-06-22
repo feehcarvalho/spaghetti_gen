@@ -1,0 +1,37 @@
+{
+  "processo_aparente": "Montagem aparente de pneu/roda no conjunto 8x2 no posto 5.2.6, com uso provável de VR de pneu para posicionamento no ponto de montagem e posterior fixação/ajuste no cubo/prisioneiros. Não conclusivo pelo vídeo; requer validação no gemba para delimitar exatamente o início e o fim do ciclo.",
+  "elementos_visiveis": [
+    "Operador no posto de montagem",
+    "Pneu/roda de grande porte",
+    "Conjunto/chassi de caminhão 8x2 aparente",
+    "Eixo/cubo de roda e região de prisioneiros aparente",
+    "Linha de montagem industrial com demarcação amarela no piso",
+    "Cabine laranja do veículo ao fundo",
+    "Dispositivo amarelo aparente de apoio/manipulação do pneu",
+    "Banco/carrinho verde usado durante atividade próxima ao cubo",
+    "Outros pneus/rodas próximos ao ponto de montagem"
+  ],
+  "ferramentas_visiveis": [
+    "VR de pneu aparente/dispositivo amarelo de movimentação e posicionamento",
+    "Possível ferramenta de fixação na região do cubo, não conclusiva pelo vídeo; requer validação no gemba"
+  ],
+  "produto_ou_conjunto_visivel": "Conjunto 8x2 aparente com pneu/roda em montagem",
+  "inicio_ciclo_estimado_s": 0.0,
+  "fim_ciclo_estimado_s": 363.1,
+  "ciclo_completo_aparente": false,
+  "limitacoes_visuais": [
+    "Frames de overview espaçados, sem continuidade suficiente para confirmar todas as ações entre os instantes amostrados",
+    "Vídeo vertical com faixas pretas laterais e campo de visão limitado",
+    "Parte das mãos, ferramenta e pontos de fixação ficam ocluídos pelo corpo do operador e pelo próprio pneu",
+    "Baixa resolução relativa para identificar porcas, prisioneiros, torqueamento e tipo exato de ferramenta",
+    "Início do vídeo já mostra o pneu em manipulação/posição próxima ao ponto de montagem, sem evidência clara de retirada no ponto de abastecimento",
+    "Fim do vídeo não confirma encerramento operacional, verificação final, retorno de ferramenta/dispositivo ou apontamento em sistema",
+    "Não é possível confirmar visualmente a sequência padrão de fixação nem a quantidade de elementos de fixação aplicados"
+  ],
+  "confianca_geral": 0.64,
+  "alertas": [
+    "Não gerar microetapas finais nesta fase; análise limitada ao overview",
+    "Processo aparente coerente com o metadado informado de montagem do oitão, mas a delimitação do ciclo completo não é conclusiva pelo vídeo; requer validação no gemba",
+    "Não foi possível confirmar visualmente parafusadeira pneumática, porcas ou caixa verde como itens específicos; identificação requer frames detalhados ou validação local"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "layout_id": "PMGS.P1",
+  "largura": 10,
+  "altura": 8,
+  "locais": {
+    "produto": {
+      "x": 5,
+      "y": 4,
+      "descricao": "Produto/grade em montagem"
+    },
+    "wpo": {
+      "x": 1,
+      "y": 7,
+      "descricao": "Tela WPO/IHM"
+    },
+    "caixas_abastecimento": {
+      "x": 2,
+      "y": 2,
+      "descricao": "Caixas de abastecimento"
+    },
+    "vr_pega": {
+      "x": 4,
+      "y": 6,
+      "descricao": "VR de pega"
+    },
+    "vr_montagem": {
+      "x": 6,
+      "y": 4,
+      "descricao": "VR de montagem"
+    },
+    "carrinho_farol": {
+      "x": 8,
+      "y": 3,
+      "descricao": "Carrinho/kit farol"
+    }
+  }
+}
